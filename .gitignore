@@ -1,0 +1,15 @@
+node_modules/
+.env
+.DS_Store
+# Personal Claude Code tooling, not part of the app
+.claude/
+skills-lock.json
+# Songs used for testing: copyrighted, never commit
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.opus
+_site/
